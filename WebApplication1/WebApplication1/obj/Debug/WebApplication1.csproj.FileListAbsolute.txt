@@ -1,2 +1,0 @@
-C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
-C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
